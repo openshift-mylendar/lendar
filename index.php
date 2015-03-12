@@ -17,7 +17,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/freelancer.css" rel="stylesheet">
+    <link href="css/freelancer.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">Meta Palex <br><div style="font-size: 0.75em;">(The Parallax Effect)</div></a>
+                <a class="navbar-brand" href="#page-top">Meta Palex</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -76,11 +76,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
                     <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
+                        <span class="name">The Parallax Effect</span>					
                         <hr class="star-light">
-                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+                        <span class="skills">We are digital web agency in Malaysia</span>
+						<span class="skills">We aim to produce high-quality website. We pursue current web technology trends and browser compatible.</span>
+						<span class="skills">We have keen visual eye and we understand the importance of getting it to look amazing design.</span>
+						<span class="skills">We care as much about the visuals as we do more about the code.</span>
                     </div>
                 </div>
             </div>
@@ -92,7 +94,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>What can we do?</h2>
+					Smooth ,elegant, eloquent, morpher.
                     <hr class="star-primary">
                 </div>
             </div>
@@ -168,6 +171,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>About</h2>
                     <hr class="star-light">
+					<h3>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</h3>
                 </div>
             </div>
             <div class="row">
@@ -247,11 +251,11 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                        <!-- <h3>Location</h3>
+                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p> -->
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Around the Web</h3>
+                        <!--<h3>Around the Web</h3>
                         <ul class="list-inline">
                             <li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
@@ -268,11 +272,13 @@
                             <li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
                             </li>
-                        </ul>
+                        </ul> -->
+
+						<h3>About Us</h3>
+                        <p>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+
                     </div>
                 </div>
             </div>
@@ -281,7 +287,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Your Website 2014
+                        Copyright &copy; www.metapalex.com 2015
                     </div>
                 </div>
             </div>
@@ -305,7 +311,7 @@
                 </div>
             </div>
             <div class="container">
-                <div class="row">
+                <div class="row"> 
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Project Title</h2>
@@ -538,5 +544,4 @@
     <script src="js/freelancer.js"></script>
 
 </body>
-
 </html>
