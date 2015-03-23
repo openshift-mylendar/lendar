@@ -79,9 +79,9 @@
                     <div class="intro-text">
                         <span class="name">The Parallax Effect</span>					
                         <hr class="star-light">
-                        <span class="skills">We are digital web agency in Malaysia</span>
-						<span class="skills">We aim to produce high-quality website. We pursue current web technology trends and browser compatible.</span>
-						<span class="skills">We have keen visual eye and we understand the importance of getting it to look amazing design.</span>
+                        <span class="skills">We are digital web agency in Malaysia.</span><br>
+						<span class="skills">We aim to produce high-quality website. We pursue current web technology trends and browser compatible.</span><br>
+						<span class="skills">We have keen visual eye and we understand the importance of getting it to look amazing design.</span><br>
 						<span class="skills">We care as much about the visuals as we do more about the code.</span>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>What can we do?</h2>
-					Smooth ,elegant, eloquent, morpher.
+					Smooth ,Inview elegant show, eloquent, morpher.
                     <hr class="star-primary">
                 </div>
             </div>
